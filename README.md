@@ -13,4 +13,6 @@ Esta é uma automação web, que tem como função pesquisar o preço de um dete
 em diversos sites, retornando um arquivo .xlsx ordenado do menor preço <br>
 encontrado para o maior <br>
 
+##### Obs: Para alterar o produto é necessário trocar os links e atualizar os objetos do código
+
 ## Bons Estudos!
