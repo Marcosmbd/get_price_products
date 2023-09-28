@@ -4,7 +4,6 @@
 
 selenium <br>
 pandas <br>
-pyautogui <br>
 
 ## Utilize o comando "!pip install (nome)" no jupyter para instalá-los
 
